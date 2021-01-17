@@ -1,3 +1,8 @@
+-made file 06 and edited 04
+-added Files 04 and 05 as well as added text to 03
+-Merge tag 'v1.0.1' into develop
+-Now have the proper files after doing a fix release
+-updated the changeglog and now have everything in the proper place after missing steps for first release
 -Changed file01.txt and added file 03.txt
 -Added file00.txt
 -first commit
